@@ -1,0 +1,29 @@
+:root {
+    --clr-primary: #fff;
+}
+
+h3 {
+    padding-top: 1em;
+}
+
+.bg-dark {
+    background-color: #fff;
+    color: #000;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.wrapper li {
+    color: #000;
+    padding: .5em;
+}
+
+.container {
+    justify-content: center;
+}
+
+.wrapper {
+    min-height: 20vh;
+}
