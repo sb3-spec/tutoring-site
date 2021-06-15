@@ -1,0 +1,47 @@
+h2 {
+    padding: 1em;
+    text-align: left;
+}
+
+.scheduling-wrapper {
+    background: url('/src/Images/cup-of-coffee-1280537_1920.jpg');
+    min-height: 70vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.scheduling-wrapper p {
+    font-size: 1.75rem;
+    padding-bottom: 1em;
+}
+
+.scheduling-wrapper h2 {
+    color: #fff;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.times-container {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background: hsl(0 0% 0% /.2);
+}
+
+.text-white {
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .times-container {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
+
+
