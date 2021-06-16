@@ -1,2 +1,3 @@
 # tutoring-site
-everything for my tutoring business
+everything for the front end of my tutoring website
+
