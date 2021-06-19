@@ -9,6 +9,9 @@ function Footer() {
                 <h3>Contact for inquiries!</h3>
                 <ul>
                     <li>
+                        $40/hour
+                    </li>
+                    <li>
                         714-381-5418
                     </li>
                     <li>
