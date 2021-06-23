@@ -16,14 +16,17 @@ export default function Testimonials() {
                             </div>
                         </div>
                         <div className='testimonial-card'>
-                            <p className='content'>"This is just what we were looking for. Robert is patient
+                            <p className='content'>
+                            "This is just what we were looking for. Robert is patient
                             and reassuring while also displaying a strong grasp of programming."
                             </p>
                             <p className='content-name'>--Jawahar A. (sons age 12, 16)</p>
                         </div>
                         <div className='testimonial-card'>
-                            <p className='content'>"Since they started, our kids have been very eager 
-                            for each class. Very glad to see them genuinely interested in programming."
+                            <p className='content'>
+                            "Robert is a wonderful teacher and person. He really knows how
+                            to get kids interested in coding. My younger daughter wants to have a 
+                            class with him every day."
                             </p>
                             <p className='content-name'>--Natalya N. (daughters age 9, 12)</p>
                         </div>
