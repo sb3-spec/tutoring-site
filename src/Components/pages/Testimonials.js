@@ -22,8 +22,8 @@ export default function Testimonials() {
                             <p className='content-name'>--Jawahar A. (sons age 12, 16)</p>
                         </div>
                         <div className='testimonial-card'>
-                            <p className='content'>"Robert is great. Hes been super kind. He knows a lot about software 
-                                and programming. Very glad we signed up."
+                            <p className='content'>"Since they started, our kids have been very eager 
+                            for each class. Very glad to see them genuinely interested in programming."
                             </p>
                             <p className='content-name'>--Natalya N. (daughters age 9, 12)</p>
                         </div>
@@ -32,6 +32,12 @@ export default function Testimonials() {
                             and professional. We would definitely recommend him to others."
                             </p>
                             <p className='content-name'>--Irena R. (son age 9)</p>
+                        </div>
+                        <div className='testimonial-card'>
+                            <p className='content'>"We were very eager to have our son learn programming. Robert's 
+                            communication and professionalism has been outstanding."
+                            </p>
+                            <p className='content-name'>--Tasheena D. (son age 9)</p>
                         </div>
                     </div>
                 </div>
